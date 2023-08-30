@@ -11,7 +11,8 @@ MODEL_TYPE_TO_MODEL_CLASS_NAME = {
     "torchvision": "TorchVisionDetectionModel",
     "yolov5sparse": "Yolov5SparseDetectionModel",
     "yolonas": "YoloNasDetectionModel",
-    "onnx_model": "ONNXDetectionModel"
+    "onnx_model": "ONNXDetectionModel",
+    "onnx_yolo_nas": "ONNXYoloNas",
 }
 
 
